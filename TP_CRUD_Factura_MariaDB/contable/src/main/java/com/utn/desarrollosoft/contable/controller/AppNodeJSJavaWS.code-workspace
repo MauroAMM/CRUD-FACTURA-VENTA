@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../../../../../ProyectosTS/AppNodeJS"
+		},
+		{
+			"path": "../../../../../../../.."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "AppNodeJS"
+    }
+}
